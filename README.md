@@ -4,6 +4,10 @@ Ex08-Windows-basic-commands-batchscript
 # AIM:
 To execute Windows basic commands and batch scripting
 
+# REG NO:
+212224040295
+
+
 # DESIGN STEPS:
 
 ### Step 1:
